@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+h1 {
+    margin: 20px 30% 0;
+    color: #FA7070;
+}
+body {
+    width: 100%;
+    height: auto;
+    background-color: #C6EBC5;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+.submit {
+    background-color: white;
+    border: 2px solid #04AA6D;
+    display: inline;
+    width: 20%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    border-radius: 15px;
+}
+.submit:hover {
+    background-color: #46a049;
+    color: white;
+}
+
+.reset {
+    background-color: white;
+    border: 2px solid #f44336;
+    display: inline;
+    width: 30%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    border-radius: 15px;
+}
+
+.reset:hover {
+    background-color: #da190b;
+    color: white;
+}
+
+.delete {
+    background-color: white;
+    border: 2px solid #f44336;
+    display: inline;
+    width: 20%;
+    margin: 1em auto;
+    margin-left: 10px;
+    height: 2em;
+    font-size: 1.1rem;
+    border-radius: 15px;
+}
+
+.delete:hover {
+    background-color: #da190b;
+    color: white;
+}
+
+.container {
+    width: 300px;
+    height: 300px;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 black;
+}
+
+img {
+    width: 250px;
+}
+
+
+
+
+

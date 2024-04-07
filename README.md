@@ -2,7 +2,9 @@
 
 <h3 align="center"><i>Realizado por Juanjo Salas y Jairo Núñez</i></h3>
 
-<h4 align="center">Descripción del proyecto</h4>
+<h4 align="center">Presentación del proyecto</h4>
+
+<a href="https://www.canva.com/design/DAGBWQBuQAs/RG9i7lw0IxJ7tI3NqzWUZw/view?utm_content=DAGBWQBuQAs&utm_campaign=designshare&utm_medium=link&utm_source=editor">Enlace Presentación</a>
 
 <h4 align="center"><i>Investigación sobre Bootstrap</i></h4>
 
